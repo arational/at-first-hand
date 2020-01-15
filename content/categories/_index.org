@@ -1,0 +1,8 @@
+---
+title: Kategorien
+description: Eine Auflistung aller Kategorien.
+menu: main
+---
+
+Eine Kategorie beschreibt ein allgemeines Themenfeld.  Jeder Artikel ist
+exakt einer Kategorie zugeordnet.

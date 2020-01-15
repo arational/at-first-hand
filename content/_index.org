@@ -1,0 +1,15 @@
+---
+title: Home
+menu:
+  - main
+  - sidebar
+weight: -270
+---
+* Lieber Leser,
+
+  herzlich willkommen auf meinem persönlichen Blog.  Mein Name ist Ivan
+  Stefanischin und ich hoffe, dass du dich beim Durchstöbern meines
+  Gedankenmuseums inspiriert und ermutigt fühlst für was auch immer dir
+  im Leben wichtig ist.
+
+  \rightarrow [[/about][Worum gehts?]]

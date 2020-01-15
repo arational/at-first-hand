@@ -1,0 +1,8 @@
+---
+title: Schlagwörter
+description: Eine Auflistung aller Schlagwörter.
+menu: main
+---
+
+Ein Schlagwort ist mit einem oder mehreren Artikeln verknüpft, die die
+Bedeutung des Begriffs weiter erläutern.

@@ -1,0 +1,7 @@
+---
+title: Über micht
+description: Etwas über meine Person.
+menu: main
+slug: about
+draft: true
+---

@@ -1,0 +1,12 @@
+---
+title: Posts
+menu:
+  main:
+weight: -250
+slug: posts
+---
+
+Jeder Post bzw. Artikel ist einer [[/categories][Kategorie]] zugeordnet
+und erläutert ein oder mehrere [[/tags][Schlagwörter]].  Einige Posts enthalten
+zeitlose Informationen und werden im Laufe der Zeit überarbeitet und
+erweitert, daher lohnt sich auch ein Blick auf ältere Posts.

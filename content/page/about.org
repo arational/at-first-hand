@@ -1,0 +1,64 @@
+---
+title: Worum geht's?
+description: Worum genau geht es hier?
+menu: main
+slug: about
+toc: true
+---
+
+* Vision
+  :PROPERTIES:
+  :CUSTOM_ID: vision
+  :END:
+
+  Meine Vision ist meine [[/categories/insights/][Erkenntnisse]] in die [[/tags/nature][Natur der Dinge]] zu
+  vertiefen und im Alltag zu verwirklichen.  Dabei möchte ich wie
+  eigentlich alle Menschen ein erfülltes und emotional ausgeglichenes
+  Leben führen.
+
+  Ein weiterer großer Antrieb ist meine Liebe zur [[/tags/truth][Wahrheit]].
+
+  Auf diesem Pfad bin ich anderen interessierten Menschen ein Beispiel
+  und helfe dabei ohne von Anderen etwas zu erwarten und ohne die Welt
+  verändern zu wollen.
+
+**** Warum ist mir das wichtig?
+
+     Nun, warum ist mir überhaupt etwas wichtig?  Und zwar aus der
+     Überzeugung heraus, dass es direkt oder indirekt zu [[/tags/release][dauerhaften Glück bzw. zum Ende aller Unzufriedenheiten]] beiträgt.
+
+* Zweck
+  :PROPERTIES:
+  :CUSTOM_ID: purpose
+  :END:
+
+  Dieser Blog erfüllt folgende Zwecke:
+
+  - Erlebnisse und Erfahrungen für mich und Anderen zu dokumentieren.
+  - Das Festhalten von Gedanken und Konzepten in kommunizierbarer Form
+    soll beim mir Verfassen als Reflektionshilfe dienen.
+
+* Autor
+  :PROPERTIES:
+  :CUSTOM_ID: author
+  :END:
+
+  #+CAPTION: Ivan Stefanischin im Alter von 30 Jahren
+  [[/images/ivan.jpg]]
+
+* Genderneutralität
+  :PROPERTIES:
+  :CUSTOM_ID: gender-neutrality
+  :END:
+
+  Ich halte nicht viel von der populären Art der Genderneutralität in
+  öffentlichen Publikationen, daher verwende ich einfachheitshalber
+  konsequent die männliche Form der Ansprache.  Dabei sollen sich auch
+  die weiblichen Leserinnen angesprochen fühlen.  Die zwanghafte
+  Einbeziehen von genderneutralen Ausformulierungen in ausführlicher
+  (z. B. /"die Leserin und der Leser"/) oder kryptischer Form
+  (z. B. /"der\slashdie Leser\slash-in"/) sind für mich Zeichen der
+  Pedanz und überempfindlicher politischer Korrektheit.  Dies
+  erscheint mir als ein verübergehendes popkulturelles Phänomen
+  unserer Zeit.  Daher verwerfe ich diese Regel in meinen Texten und
+  riskiere Ablehnung von Feministen (und Feministinnen :wink:).
